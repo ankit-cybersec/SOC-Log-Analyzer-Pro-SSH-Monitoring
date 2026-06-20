@@ -1,0 +1,28 @@
+Jul 10 09:10:11 server sshd[1021]: Failed password for root from 192.168.1.10 port 22 ssh2
+Jul 10 09:10:15 server sshd[1022]: Failed password for root from 192.168.1.10 port 22 ssh2
+Jul 10 09:10:18 server sshd[1023]: Failed password for root from 192.168.1.10 port 22 ssh2
+Jul 10 09:10:21 server sshd[1024]: Failed password for root from 192.168.1.10 port 22 ssh2
+Jul 10 09:10:24 server sshd[1025]: Failed password for root from 192.168.1.10 port 22 ssh2
+Jul 10 09:10:27 server sshd[1026]: Failed password for root from 192.168.1.10 port 22 ssh2
+Jul 10 09:10:30 server sshd[1027]: Failed password for root from 192.168.1.10 port 22 ssh2
+
+Jul 10 09:12:10 server sshd[1031]: Failed password for admin from 172.16.0.55 port 22 ssh2
+Jul 10 09:12:18 server sshd[1032]: Failed password for admin from 172.16.0.55 port 22 ssh2
+Jul 10 09:12:26 server sshd[1033]: Failed password for admin from 172.16.0.55 port 22 ssh2
+
+Jul 10 09:14:05 server sshd[1041]: Failed password for user from 10.10.10.5 port 22 ssh2
+Jul 10 09:14:30 server sshd[1042]: Failed password for user from 10.10.10.5 port 22 ssh2
+
+Jul 10 09:15:10 server sshd[1051]: Failed password for guest from 203.0.113.50 port 22 ssh2
+
+Jul 10 09:17:01 server sshd[1061]: Accepted password for administrator from 192.168.1.100 port 22 ssh2
+Jul 10 09:17:30 server sshd[1062]: Accepted password for administrator from 192.168.1.100 port 22 ssh2
+
+Jul 10 09:20:10 server sshd[1071]: Failed password for root from 45.88.120.7 port 22 ssh2
+Jul 10 09:20:15 server sshd[1072]: Failed password for root from 45.88.120.7 port 22 ssh2
+Jul 10 09:20:18 server sshd[1073]: Failed password for root from 45.88.120.7 port 22 ssh2
+Jul 10 09:20:21 server sshd[1074]: Failed password for root from 45.88.120.7 port 22 ssh2
+Jul 10 09:20:24 server sshd[1075]: Failed password for root from 45.88.120.7 port 22 ssh2
+Jul 10 09:20:27 server sshd[1076]: Failed password for root from 45.88.120.7 port 22 ssh2
+Jul 10 09:20:30 server sshd[1077]: Failed password for root from 45.88.120.7 port 22 ssh2
+Jul 10 09:20:33 server sshd[1078]: Failed password for root from 45.88.120.7 port 22 ssh2
