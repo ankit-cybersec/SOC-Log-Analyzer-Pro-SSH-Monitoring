@@ -4172,7 +4172,7 @@ def generate_csv():
 
 def send_email_alert(ip, attempts):
 
-    sender_email = "myankit123@gmail.com"
+    sender_email = "myanki123@gmail.com"
 
     app_password = "sdsdfrtyhgfrtuij"
 
